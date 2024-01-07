@@ -36,3 +36,62 @@
     transform: rotate(360deg);
   }
 }
+.bg-color{
+  background-color:  #d9d9d9;
+}
+.hight-dropdown{
+  height: 5px ;
+}
+.main{
+  display: flex;
+  width: 100%;
+}
+.child_lable{
+  width: 50%;
+}
+.child_drop{
+  width: 50%;
+  display: flex;
+  margin-left: 20px;
+}
+.drop-down
+{
+  width: 119px;
+  height: 32px;
+}
+.lble_1{
+  margin: 10px;
+}
+.sub-child{
+  box-shadow: 1px;
+  border: 1px;
+  background-color: aliceblue;
+  margin-top: 30px;
+}
+.main_sub{
+  display: flex;
+  width: 100%;
+
+}
+.calaendar{
+  width: 50%;
+  padding-left: 7%;
+}
+.btn_date{
+  width: 50%;
+}
+.title{
+  padding: 15px;
+}
+.sub_main_child{
+  display: flex;
+  width: 100%;
+}
+.btn_sheduled{
+  display: flex;
+  margin-left: 50%;
+}
+.btn_color{
+  color:white !important;
+  background-color: #ffcc00 !important;
+}
